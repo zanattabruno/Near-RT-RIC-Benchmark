@@ -1,5 +1,4 @@
 # Near-RT-RIC-Benchmark
-Improved text:
 
 This Python script performs various operations on a CSV file containing latency samples from a cloud network. It resamples the data to hourly intervals, calculates the mean latency for each hour, and saves the resulting hourly means to a new CSV file.
 
