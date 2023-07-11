@@ -22,4 +22,4 @@ It is a pleasure to share our knowledge, and you are free to use it! Please, cit
 
 ````
 ## License
-https://github.com/zanattabruno/Near-RT-RIC-Benchmark/blob/main/LICENSE.txt
+https://github.com/zanattabruno/Near-RT-RIC-Benchmark/blob/main/LICENSE
