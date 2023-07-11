@@ -1,5 +1,5 @@
 # Near-RT-RIC-Benchmark
-![GitHub](https://img.shields.io/github/license/zanattabruno/Near-RT-RIC-Benchmark)
+![GitHub](https://img.shields.io/github/license/zanattabruno/Near-RT-RIC-Benchmark?color=blue)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zanattabruno/Near-RT-RIC-Benchmark) 
 ![GitHub last commit](https://img.shields.io/github/last-commit/zanattabruno/Near-RT-RIC-Benchmark)
 ![GitHub contributors](https://img.shields.io/github/contributors/zanattabruno/Near-RT-RIC-Benchmark)
